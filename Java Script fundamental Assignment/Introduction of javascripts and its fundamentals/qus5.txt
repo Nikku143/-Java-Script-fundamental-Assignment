@@ -1,0 +1,6 @@
+Explain the importance of comments in JavaScript and provide examples of single-line and
+multi-line comments.
+
+ans:-
+
+We can use // or /*… */ to change the JavaScript code execution using comments. JavaScript Comments are used to prevent code execution and are considered suitable for testing the code. Example 1: JavaScript comments are used to prevent execution of selected code to locate problems of code or while testing new features.

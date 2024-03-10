@@ -1,0 +1,8 @@
+Q3. Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.
+
+ans:--
+
+Unary, Binary, and Ternary Operators in JavaScript – Explained with Examples
+Unary operators: which require one operand (Un)
+Binary operators: which require two operands (Bi)
+Ternary operators: which require three operands (Ter)

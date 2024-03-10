@@ -1,0 +1,73 @@
+List and describe the five primitive data types in JavaScript.
+
+ans:-
+
+
+
+1:--Number
+Number data type in javascript can be used to hold decimal values as well as values without decimals.
+
+ex:-
+
+let x = 250;
+let y = 40.5;
+console.log("Value of x=" + x);
+console.log("Value of y=" + y);
+
+Output
+Value of x=250
+Value of y=40.5
+
+2:-String
+The string data type in JavaScript represents a sequence of characters that are surrounded by single or double quotes.
+
+ex:-
+let str = 'Hello All';
+let str1 = "Welcome to my new house";
+console.log("Value of str=" + str);
+console.log("Value of str1=" + str1);
+
+Output
+Value of str=Hello All
+Value of str1=Welcome to my new house
+
+3:-Undefined
+The meaning of undefined is ‘value is not assigned’.
+
+ex:-
+console.log("Value of x=" + x);
+
+
+4:-Boolean
+The boolean data type can accept only two values i.e. true and false.
+
+
+ex:-
+
+console.log("value of bool=" + bool);
+
+output:
+true
+
+4:-Null
+This data type can hold only one possible value that is null.
+
+ex:
+let x = null;
+	console.log("Value of x=" + x);
+
+
+
+Output
+Value of x=null
+
+5:-BigInt
+This data type can represent numbers greater than 253-1 which helps to perform operations on large numbers. The number is specified by writing ‘n’ at the end of the value
+
+ex:
+
+let bigNum = 123422222222222222222222222222222222222n
+console.log(bigNum)
+
+Output
+123422222222222222222222222222222222222n
